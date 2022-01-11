@@ -3,13 +3,13 @@
 ## Dev Build
 
 ```bash
-yarn
-yarn dev
+npm install
+npm run dev
 ```
 
 ## Prod Build
 
 ```bash
-yarn build
+npm run build
 node dist/index.js
 ```
